@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\bin\Debug\net9.0\Pustok.DataAccess.deps.json
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\bin\Debug\net9.0\Pustok.DataAccess.dll
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\bin\Debug\net9.0\Pustok.DataAccess.pdb
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\bin\Debug\net9.0\Pustok.Core.dll
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\bin\Debug\net9.0\Pustok.Core.pdb
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.D.7A3374B7.Up2Date
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.dll
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\refint\Pustok.DataAccess.dll
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.pdb
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\ref\Pustok.DataAccess.dll
