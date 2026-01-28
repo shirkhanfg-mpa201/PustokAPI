@@ -16,6 +16,7 @@ namespace Pustok.Business.ServiceRegistirations
         public static void AddBusinessServices(this IServiceCollection services )
         {
             services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<ICategoryService, CategoryService>();
             services.AddAutoMapper(_ =>{ },typeof(BusinessServiceRegistration).Assembly);
         }
     }

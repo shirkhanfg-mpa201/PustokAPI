@@ -171,3 +171,5 @@ C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\refint\P
 C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.Presentation.pdb
 C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.Presentation.genruntimeconfig.cache
 C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\ref\Product.Presentation.dll
+C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.Presentation.sourcelink.json

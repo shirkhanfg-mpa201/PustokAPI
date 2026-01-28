@@ -1,9 +1,11 @@
-﻿using Pustok.Core.Entities.Common;
+﻿using Microsoft.EntityFrameworkCore;
+using Pustok.Core.Entities.Common;
 using Pustok.DataAccess.Contexts;
 using Pustok.DataAccess.Repositories.Abstraction.Generic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,6 +19,13 @@ namespace Pustok.DataAccess.Repositories.Implementation.Generic
 
         }
 
+        public async Task<bool> AnyAsync(Expression<Func<T, bool>> expression)
+        {
+            var entity = await _context.Set<T>().AnyAsync(expression);
+
+            return entity;
+        }
+
         public void Delete(T entity)
         {
             _context.Set<T>().Remove(entity);
@@ -27,7 +36,12 @@ namespace Pustok.DataAccess.Repositories.Implementation.Generic
             return _context.Set<T>();
         }
 
+        public async Task<T?> GetAsync(Expression<Func<T, bool>> expression)
+        {
+            var entity = await _context.Set<T>().FirstOrDefaultAsync(expression);
 
+            return entity;
+        }
 
         public async Task<T?> GetByIdAsync(Guid id)
         {

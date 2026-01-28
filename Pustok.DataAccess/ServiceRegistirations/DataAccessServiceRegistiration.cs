@@ -21,7 +21,7 @@ namespace Pustok.DataAccess.ServiceRegistirations
                 options.UseSqlServer(configuration.GetConnectionString("Default"));
             });
             services.AddScoped<IProductRepository, ProductRepository>();
-            //services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
         }
     }
 }

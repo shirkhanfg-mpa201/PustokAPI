@@ -13,3 +13,4 @@ C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.Data
 C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\refint\Pustok.DataAccess.dll
 C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.pdb
 C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\ref\Pustok.DataAccess.dll
+C:\Users\User\source\repos\Pustok\Pustok.DataAccess\obj\Debug\net9.0\Pustok.DataAccess.sourcelink.json
