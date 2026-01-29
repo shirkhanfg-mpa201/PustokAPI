@@ -17,6 +17,9 @@ namespace Pustok.Business.ServiceRegistirations
         {
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<ICloudinaryService, CloudinaryService>();
+
+
             services.AddAutoMapper(_ =>{ },typeof(BusinessServiceRegistration).Assembly);
         }
     }

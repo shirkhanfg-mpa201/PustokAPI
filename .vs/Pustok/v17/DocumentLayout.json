@@ -3,56 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Pustok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\configurations\\categorycofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\configurations\\categorycofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Migrations\\20260128083946_AddedCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pustok.DataAccess\\Migrations\\20260128083946_AddedCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\serviceregistirations\\dataaccessserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\serviceregistirations\\dataaccessserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\repositories\\implementation\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\implementation\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\resultdtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\resultdtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|c:\\users\\user\\source\\repos\\pustok\\product.presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\services\\abstractions\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\services\\abstractions\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|c:\\users\\user\\source\\repos\\pustok\\product.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\services\\implementations\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\services\\implementations\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|c:\\users\\user\\source\\repos\\pustok\\product.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\productdtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\productdtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\productdtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\productdtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,80 +59,24 @@
       "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\serviceregistirations\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\repositories\\abstraction\\generic\\irepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\abstraction\\generic\\irepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\serviceregistirations\\dataaccessserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\serviceregistirations\\dataaccessserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\repositories\\abstraction\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\abstraction\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\cloudinarydtos\\cloudinaryoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\cloudinarydtos\\cloudinaryoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\repositories\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\exceptions\\alreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\exceptions\\alreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E44245A-3E89-4925-8C66-5CD8ADBFB1A8}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E44245A-3E89-4925-8C66-5CD8ADBFB1A8}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E44245A-3E89-4925-8C66-5CD8ADBFB1A8}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E44245A-3E89-4925-8C66-5CD8ADBFB1A8}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|c:\\users\\user\\source\\repos\\pustok\\product.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|c:\\users\\user\\source\\repos\\pustok\\product.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677975EA-1EBC-4EAA-8898-7E79F5846FDD}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\pustok.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\pustok.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\pustok.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\pustok.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\productdtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\productdtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.business\\dtos\\productdtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8DAF47-F263-4A19-B923-0E431BAE5B40}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\productdtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E44245A-3E89-4925-8C66-5CD8ADBFB1A8}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E44245A-3E89-4925-8C66-5CD8ADBFB1A8}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\pustok\\pustok.dataaccess\\migrations\\20260127183645_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36799D41-D820-4EF2-84A9-206F132BCFA6}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\migrations\\20260127183645_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,37 +86,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20260128083946_AddedCategory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Migrations\\20260128083946_AddedCategory.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Migrations\\20260128083946_AddedCategory.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Migrations\\20260128083946_AddedCategory.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Migrations\\20260128083946_AddedCategory.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "ResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ResultDtos\\ResultDto.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ResultDtos\\ResultDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ResultDtos\\ResultDto.cs",
+              "RelativeToolTip": "Pustok.Business\\Dtos\\ResultDtos\\ResultDto.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T08:39:47.001Z",
+              "WhenOpened": "2026-01-29T07:10:21.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\GlobalUsings.cs",
+              "RelativeToolTip": "Pustok.Business\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T21:18:22.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ProductGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
+              "RelativeToolTip": "Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T21:14:01.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
+              "RelativeToolTip": "Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T20:04:32.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccessServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
+              "RelativeToolTip": "Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:59:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Product.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Product.Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:48:25.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Pustok.Business\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:45:48.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
+              "RelativeToolTip": "Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:44:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
+              "RelativeToolTip": "Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:44:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Abstractions\\ICloudinaryService.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Services\\Abstractions\\ICloudinaryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Abstractions\\ICloudinaryService.cs",
+              "RelativeToolTip": "Pustok.Business\\Services\\Abstractions\\ICloudinaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:42:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Services\\Implementations\\CloudinaryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\CloudinaryService.cs",
+              "RelativeToolTip": "Pustok.Business\\Services\\Implementations\\CloudinaryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgv1YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:30:37.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CloudinaryOptionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "RelativeToolTip": "Pustok.Business\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:28:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Product.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "Product.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T19:24:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Product.Presentation\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Product.Presentation\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T08:33:47.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "AlreadyExistException.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Exceptions\\AlreadyExistException.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Exceptions\\AlreadyExistException.cs",
@@ -184,38 +272,37 @@
               "RelativeToolTip": "Pustok.Business\\Exceptions\\AlreadyExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T08:20:33.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T08:20:33.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Services\\Implementations\\CategoryService.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\CategoryService.cs",
               "RelativeToolTip": "Pustok.Business\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:48:40.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Abstractions\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Services\\Abstractions\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Abstractions\\ICategoryService.cs",
               "RelativeToolTip": "Pustok.Business\\Services\\Abstractions\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:47:41.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "CategoryProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Profiles\\CategoryProfile.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Profiles\\CategoryProfile.cs",
@@ -223,343 +310,11 @@
               "RelativeToolTip": "Pustok.Business\\Profiles\\CategoryProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:45:05.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\CategoryDtos\\CategoryGetDto.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\CategoryDtos\\CategoryGetDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\CategoryDtos\\CategoryGetDto.cs",
-              "RelativeToolTip": "Pustok.Business\\Dtos\\CategoryDtos\\CategoryGetDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:40:47.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryCofiguration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Configurations\\CategoryCofiguration.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Configurations\\CategoryCofiguration.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Configurations\\CategoryCofiguration.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Configurations\\CategoryCofiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:38:32.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Implementation\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Implementation\\CategoryRepository.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:35:08.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Abstraction\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstraction\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Abstraction\\ICategoryRepository.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstraction\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:34:15.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Product.Presentation\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\appsettings.Development.json",
-              "RelativeToolTip": "Product.Presentation\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T18:34:07.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20260127183645_Init.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Migrations\\20260127183645_Init.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Migrations\\20260127183645_Init.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Migrations\\20260127183645_Init.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Migrations\\20260127183645_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T18:36:45.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BusinessServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
-              "RelativeToolTip": "Pustok.Business\\ServiceRegistirations\\BusinessServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T18:25:46.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Pustok.Business.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Pustok.Business.csproj",
-              "RelativeDocumentMoniker": "Pustok.Business\\Pustok.Business.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Pustok.Business.csproj",
-              "RelativeToolTip": "Pustok.Business\\Pustok.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T18:23:03.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataAccessServiceRegistiration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\ServiceRegistirations\\DataAccessServiceRegistiration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T18:10:42.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Product.Presentation\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Product.Presentation\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:55:45.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Product.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Product.Presentation\\Program.cs",
-              "RelativeToolTip": "Product.Presentation\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:47:01.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProductGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
-              "RelativeToolTip": "Pustok.Business\\Dtos\\ProductDtos\\ProductGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:24:47.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "Pustok.Business\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:29:59.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
-              "RelativeToolTip": "Pustok.Business\\Dtos\\ProductDtos\\ProductUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:24:48.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Profiles\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Profiles\\ProductProfile.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Profiles\\ProductProfile.cs",
-              "RelativeToolTip": "Pustok.Business\\Profiles\\ProductProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:06:29.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "Pustok.Business\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:00:00.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
-              "RelativeToolTip": "Pustok.Business\\Dtos\\ProductDtos\\ProductCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:54:40.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Abstractions\\IProductService.cs",
-              "RelativeDocumentMoniker": "Pustok.Business\\Services\\Abstractions\\IProductService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Business\\Services\\Abstractions\\IProductService.cs",
-              "RelativeToolTip": "Pustok.Business\\Services\\Abstractions\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:53:15.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Implementation\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementation\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Implementation\\ProductRepository.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementation\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:43:04.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Abstraction\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstraction\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Abstraction\\IProductRepository.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstraction\\IProductRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:39:50.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Implementation\\Generic\\Repository.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementation\\Generic\\Repository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Implementation\\Generic\\Repository.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementation\\Generic\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:30:33.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Abstraction\\Generic\\IRepostory.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstraction\\Generic\\IRepostory.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Repositories\\Abstraction\\Generic\\IRepostory.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstraction\\Generic\\IRepostory.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:27:45.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAChAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:14:27.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:45:05.487Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Pustok.DataAccess\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:10:14.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Pustok.DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
-              "RelativeDocumentMoniker": "Pustok.DataAccess\\Pustok.DataAccess.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
-              "RelativeToolTip": "Pustok.DataAccess\\Pustok.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T16:09:08.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "Pustok.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:06:52.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Product.cs",
@@ -568,18 +323,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T16:05:50.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok\\Pustok.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Pustok.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:05:23.173Z"
             },
             {
               "$type": "Bookmark",

@@ -22,6 +22,7 @@ namespace Pustok.DataAccess.ServiceRegistirations
             });
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
+          
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Pustok.Business.Dtos.CategoryDtos;
+using Pustok.Business.Dtos.ResultDtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,14 +10,14 @@ namespace Pustok.Business.Services.Abstractions
 {
     public interface ICategoryService
     {
-        Task CreateAsync(CategoryCreateDto dto);
+        Task<ResultDto> CreateAsync(CategoryCreateDto dto);
 
-        Task UpdateAsync(CategoryUpdateDto dto);
+        Task<ResultDto> UpdateAsync(CategoryUpdateDto dto);
 
-        Task DeleteAsync(Guid id);
+        Task<ResultDto> DeleteAsync(Guid id);
 
-        Task<List<CategoryGetDto>> GetAllAsync();
+        Task<ResultDto<List<CategoryGetDto>>> GetAllAsync();
 
-        Task<CategoryGetDto> GetByIdAsync(Guid id);
+        Task<ResultDto<CategoryGetDto>> GetByIdAsync(Guid id);
     }
 }

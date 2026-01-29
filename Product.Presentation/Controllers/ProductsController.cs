@@ -20,10 +20,17 @@ namespace Product.Presentation.Controllers
 
         [HttpPost]
 
-        public async Task<IActionResult> Create([FromBody] ProductCreateDto dto)
+        public async Task<IActionResult> Create([FromForm] ProductCreateDto dto)
         {
             await _service.CreateAsync(dto);
             return Ok("Created");
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> Update([FromForm] ProductUpdateDto dto)
+        {
+            await _service.UpdateAsync(dto);
+            return Ok("Updated");
         }
 
         [HttpDelete("{id}")]

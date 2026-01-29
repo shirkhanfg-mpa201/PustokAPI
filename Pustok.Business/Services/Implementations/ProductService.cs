@@ -13,11 +13,15 @@ using System.Threading.Tasks;
 
 namespace Pustok.Business.Services.Implementations
 {
-    internal class ProductService(IProductRepository _repository, IMapper _mapper) : IProductService
+    public class ProductService(IProductRepository _repository, IMapper _mapper, ICloudinaryService _cloudinaryService) : IProductService
     {
         public async Task CreateAsync(ProductCreateDto dto)
         {
             var product = _mapper.Map<Product>(dto);
+
+
+            var imagePath = await _cloudinaryService.FileCreateAsync(dto.Image);
+            product.ImageUrl = imagePath;
 
             await _repository.AddAsync(product);
             await _repository.SaveChangesAsync();
@@ -25,17 +29,21 @@ namespace Pustok.Business.Services.Implementations
 
         public async Task DeleteAsync(Guid id)
         {
-            var product =await _repository.GetByIdAsync(id);
+            var product = await _repository.GetByIdAsync(id);
 
-            if (product is null) throw new NotFoundException("Product not found");
+            if (product is null)
+                throw new NotFoundException("Project is not found");
 
             _repository.Delete(product);
             await _repository.SaveChangesAsync();
+
+
+            await _cloudinaryService.FileDeleteAsync(product.ImageUrl);
         }
 
         public async Task<List<ProductGetDto>> GetAllAsync()
         {
-            var products =await _repository.GetAll().Include(x=> x.Category).ToListAsync();
+            var products = await _repository.GetAll().Include(x => x.Category).ToListAsync();
 
             var dtos = _mapper.Map<List<ProductGetDto>>(products);
 
@@ -44,25 +52,33 @@ namespace Pustok.Business.Services.Implementations
 
         public async Task<ProductGetDto> GetAsync(Guid id)
         {
+
             var product = await _repository.GetByIdAsync(id);
 
-            if (product is null) throw new NotFoundException("Product not found");
+            if (product is null)
+                throw new NotFoundException("Project is not found");
 
             var dto = _mapper.Map<ProductGetDto>(product);
 
             return dto;
-
         }
-
 
         public async Task UpdateAsync(ProductUpdateDto dto)
         {
+
             var product = await _repository.GetByIdAsync(dto.Id);
 
             if (product is null)
-                throw new NotFoundException("Product not found");
+                throw new NotFoundException("Project is not found");
 
             product = _mapper.Map(dto, product);
+
+            if (dto.Image is not null)
+            {
+                await _cloudinaryService.FileDeleteAsync(product.ImageUrl);
+                var imagePath = await _cloudinaryService.FileCreateAsync(dto.Image);
+                product.ImageUrl = imagePath;
+            }
 
             _repository.Update(product);
             await _repository.SaveChangesAsync();

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Pustok.Business.Dtos.CategoryDtos;
+using Pustok.Business.Dtos.ResultDtos;
 using Pustok.Business.Exceptions;
 using Pustok.Business.Services.Abstractions;
 using Pustok.Core.Entities;
@@ -15,7 +16,7 @@ namespace Pustok.Business.Services.Implementations
 {
     internal class CategoryService(ICategoryRepository _repository, IMapper _mapper) : ICategoryService
     {
-        public async Task CreateAsync(CategoryCreateDto dto)
+        public async Task<ResultDto> CreateAsync(CategoryCreateDto dto)
         {
             var isExistCategory = await _repository.AnyAsync(x => x.Name == dto.Name);
 
@@ -26,10 +27,10 @@ namespace Pustok.Business.Services.Implementations
 
             await _repository.AddAsync(category);
             await _repository.SaveChangesAsync();
-
+            return new("Created");
         }
 
-        public async Task DeleteAsync(Guid id)
+        public async Task<ResultDto> DeleteAsync(Guid id)
         {
             var category =await  _repository.GetAsync(x=>x.Id==id);
 
@@ -38,16 +39,18 @@ namespace Pustok.Business.Services.Implementations
 
             _repository.Delete(category);
             await _repository.SaveChangesAsync();
+
+            return new("Deleted");
         }
 
-        public async Task<List<CategoryGetDto>> GetAllAsync()
+        public async Task<ResultDto<List<CategoryGetDto>>> GetAllAsync()
         {
             var categories =await  _repository.GetAll().Include(x=>x.Products).ToListAsync();
             var categoryDtos = _mapper.Map<List<CategoryGetDto>>(categories);
-            return categoryDtos;
+            return new(categoryDtos);
         }
 
-        public async Task<CategoryGetDto> GetByIdAsync(Guid id)
+        public async Task<ResultDto<CategoryGetDto>> GetByIdAsync(Guid id)
         {
             var category = await _repository.GetAsync(x=>x.Id==id);
 
@@ -56,11 +59,11 @@ namespace Pustok.Business.Services.Implementations
 
             var categoryDto = _mapper.Map<CategoryGetDto>(category);
 
-            return categoryDto;
+            return new(categoryDto);
 
         }
 
-        public async Task UpdateAsync(CategoryUpdateDto dto)
+        public async Task<ResultDto> UpdateAsync(CategoryUpdateDto dto)
         {
             var category = await _repository.GetByIdAsync(dto.Id);
 
@@ -76,6 +79,8 @@ namespace Pustok.Business.Services.Implementations
 
             _repository.Update(category);
             await _repository.SaveChangesAsync();
+
+            return new("UPDATED");
         }
     }
 }

@@ -173,3 +173,6 @@ C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.
 C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\ref\Product.Presentation.dll
 C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.Presentation.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\source\repos\Pustok\Product.Presentation\obj\Debug\net9.0\Product.Presentation.sourcelink.json
+C:\Users\User\source\repos\Pustok\Product.Presentation\bin\Debug\net9.0\CloudinaryDotNet.dll
+C:\Users\User\source\repos\Pustok\Product.Presentation\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\Pustok\Product.Presentation\bin\Debug\net9.0\Newtonsoft.Json.dll
