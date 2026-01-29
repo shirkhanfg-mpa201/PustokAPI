@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pustok.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca8cf0912e1d345114de2bbb29d4963b8c1dfc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pustok.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pustok.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

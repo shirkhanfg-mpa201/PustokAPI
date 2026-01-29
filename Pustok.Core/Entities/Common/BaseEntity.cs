@@ -10,4 +10,8 @@ namespace Pustok.Core.Entities.Common
     {
         public Guid Id { get; set; }
     }
+
+
 }
+
+

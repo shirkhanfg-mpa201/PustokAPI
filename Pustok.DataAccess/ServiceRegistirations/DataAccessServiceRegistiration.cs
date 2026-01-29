@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Pustok.DataAccess.Contexts;
+using Pustok.DataAccess.Interceptors;
 using Pustok.DataAccess.Repositories.Abstraction;
 using Pustok.DataAccess.Repositories.Implementation;
 using System;
@@ -22,6 +23,7 @@ namespace Pustok.DataAccess.ServiceRegistirations
             });
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<BaseAuditableInterceptor>();
           
         }
     }
